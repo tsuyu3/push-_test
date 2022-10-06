@@ -33,7 +33,7 @@ DEMOの実行方法など、"hoge"の基本的な使い方を説明する
 
 ```bash
 cd motu
-git clone git@github.com:tsuyu3/push-_test.git
+git clone -b dev1 git@github.com:tsuyu3/push-_test.git
 docker-compose up --build
 ```
 
