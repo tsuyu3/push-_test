@@ -1,16 +1,11 @@
-
-
-前回pushしたフォルダの場所を開いたターミナルにて
-以下のコマンドでローカルにクローンできる
-git clone -b dev1 https://リポジトリのアドレス
-
-
-
-# dev1ブランチ　環境構築について
+# dev1ブランチ　環境構築について　
 
 
 
 # DEMO
+
+aaaaa
+
 
 
 # Features
@@ -37,9 +32,9 @@ Backend
 DEMOの実行方法など、"hoge"の基本的な使い方を説明する
 
 ```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
+cd motu
+git clone git@github.com:tsuyu3/push-_test.git
+docker-compose up --build
 ```
 
 # Note
