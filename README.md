@@ -29,12 +29,14 @@ Backend
 
 # Usage
 
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
+Cloneからdocker 立ち上げまで
 
 ```bash
 cd motu
 git clone -b dev1 git@github.com:tsuyu3/push-_test.git
 docker-compose up --build
+フロント：ブラウザ上でlocalhost:3000
+バックエンド：ブラウザ上でlocalhost:8000
 ```
 
 # Note
